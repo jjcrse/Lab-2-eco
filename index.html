@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gestor de Posts - Medieval</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet">
+</head>
+<body class="medieval">
+  <header>
+    <h1> Instagram del siglo 5</h1>
+  </header>
+
+  <main class="container">
+    <section class="form-section">
+      <form id="postForm">
+        <input type="url" id="image" placeholder="URL De la imagen" required />
+        <input type="text" id="title" placeholder="Título del post" required />
+        <textarea id="description" placeholder="Contenido del post" required></textarea>
+        <button type="submit"> Guardar Post</button>
+      </form>
+    </section>
+
+    <section class="posts-section">
+      <h2> Proclamas Publicadas</h2>
+      <div id="posts" class="posts-container"></div>
+    </section>
+  </main>
+
+
+
+  <script src="script.js"></script>
+</body>
+</html>

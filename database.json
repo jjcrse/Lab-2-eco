@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "33cf",
+      "image": "https://muchahistoria.com/wp-content/uploads/2021/04/rey-definicion.jpg",
+      "title": "El Rey",
+      "description": "El rey es como raro y quiere matar gente\n"
+    },
+    {
+      "id": "bcd1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgy_ynzVQ24NGlfBBSXsbX_PwQC8qG0JvmGw&s",
+      "title": "La reina",
+      "description": "La esposa del rey"
+    },
+    {
+      "id": "a346",
+      "image": "https://s1.elespanol.com/2019/03/01/social/la_jungla_-_social_379973007_116771606_1024x576.jpg",
+      "title": "Verdugo",
+      "description": "El de Shrek XD"
+    },
+    {
+      "id": "af81",
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/01/558616-dark-souls-3-nuevas-imagenes.jpg?tf=3840x",
+      "title": "Caballero",
+      "description": "Olvidemos que es el de Dark souls"
+    },
+    {
+      "id": "352c",
+      "image": "https://theriagames.com/wp-content/uploads/2025/03/Evolved_Musketeer_1.webp",
+      "title": "Mosquetera",
+      "description": "La de clash royale\n"
+    },
+    {
+      "id": "c499",
+      "image": "https://content-historia.nationalgeographic.com.es/medio/2019/12/12/juana-de-arco_1936eba6_1280x720.jpg",
+      "title": "Pintura",
+      "description": "Famosa pintura"
+    }
+  ]
+}
